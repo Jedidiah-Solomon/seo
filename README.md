@@ -1,0 +1,2 @@
+# seo
+My SEO resources.
